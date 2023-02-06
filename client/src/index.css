@@ -1,0 +1,48 @@
+main {
+  min-height: 80vh;
+}
+
+h3 {
+  padding: 1rem 0;
+}
+
+h1 {
+  font-size: 1.8rem;
+  padding: 0.1rem;
+}
+
+h2 {
+  font-size: 1.4rem;
+  padding: 0.5rem 0;
+}
+.rating span {
+  margin: 0.1rem;
+}
+
+.navigation {
+  text-transform: none;
+  font-size: 1.7rem;
+}
+
+/* CAROUSEL */
+.carouse-item.next,
+.carouse-item.prev,
+.carouse-item.active {
+  display: center;
+}
+
+.carousel-caption {
+  position: absolute;
+  top: 0;
+}
+
+.carousel-caption h2 {
+  /* color: #fff; */
+  color: black;
+}
+
+.carousel img {
+  height: 400px;
+  padding: 70px;
+  /* border-radius: 50%; */
+}
