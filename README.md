@@ -1,4 +1,4 @@
-# Protech-Ecommerce-Tech
+# MERN-Ecommerce
 
 Login/Registration: Users can create an account or log in to an existing one to access their personal information and order history.
 
