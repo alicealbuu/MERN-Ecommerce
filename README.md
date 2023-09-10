@@ -1,6 +1,6 @@
 # MERN-Ecommerce
 
-A complete online shopping platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It offers user authentication, product catalog, shopping cart, secure checkout and order management , all with a responsive design for a seamless shopping experience.
+A complete online shopping platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It offers user authentication, product catalog, shopping cart, secure checkout and order management , all with a responsive design implemented using CSS for a seamless shopping experience.
 
 Login/Registration: Users can create an account or log in to an existing one to access their personal information and order history.
 
